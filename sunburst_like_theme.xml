@@ -1,0 +1,47 @@
+
+<style-scheme version="1.0" name="sunburst like theme">
+    <style name="AddedLine" foreground="#359f9f"/>
+    <style name="Comment" foreground="#BC9458" italic="true"/>
+    <style name="CurrentLine" background="#232323"/>
+    <style name="CurrentLineNumber" foreground="#aaaaaa" bold="true"/>
+    <style name="DiffFile" foreground="#349e34"/>
+    <style name="DiffLocation" foreground="#89892d"/>
+    <style name="DisabledCode" foreground="#777777" background="#222222"/>
+    <style name="Doxygen.Comment" foreground="#3dbbbb"/>
+    <style name="Doxygen.Tag" foreground="#00a0a0"/>
+    <style name="Field" foreground="#618f5c"/>
+    <style name="Function" foreground="#e9c062" bold="true"/>
+    <style name="Keyword" foreground="#cf6a4c" bold="true"/>
+    <style name="Label" foreground="#bfbf3f"/>
+    <style name="LineNumber" foreground="#888888" background="#232323"/>
+    <style name="Link" foreground="#0041c4"/>
+    <style name="Local" foreground="#aaa"/>
+    <style name="Number" foreground="#8393c0"/>
+    <style name="Occurrences" background="#363636"/>
+    <style name="Occurrences.Rename" foreground="#ffaaaa" background="#553636"/>
+    <style name="Occurrences.Unused" foreground="#c0c0c0"/>
+    <style name="Operator" foreground="#aaaaaa"/>
+    <style name="Parentheses" foreground="#ff5555" background="#333333"/>
+    <style name="Preprocessor" foreground="#aeaeae"/>
+    <style name="RemovedLine" foreground="#b43c3c"/>
+    <style name="SearchResult" background="#555500"/>
+    <style name="SearchScope" background="#222200"/>
+    <style name="Selection" foreground="#000000" background="#aaaaaa"/>
+    <style name="Static" foreground="#a69829"/>
+    <style name="String" foreground="#65b042"/>
+    <style name="Text" foreground="#ddd" background="#111"/>
+    <style name="Type" foreground="#c5af75"/>
+    <style name="VirtualMethod" foreground="#e9c062"/>
+    <style name="VisualWhitespace" foreground="#c0c0c0"/>
+    <style name="QmlTypeId" foreground="#ff8bff"/>
+    <style name="Binding" foreground="#ff5555"/>
+    <style name="QmlLocalId" italic="true"/>
+    <style name="QmlRootObjectProperty" italic="true"/>
+    <style name="QmlScopeObjectProperty" italic="true"/>
+    <style name="QmlStateName" italic="true"/>
+    <style name="QmlExternalId" foreground="#aaaaff" italic="true"/>
+    <style name="QmlExternalObjectProperty" foreground="#aaaaff" italic="true"/>
+    <style name="JsScopeVar" foreground="#8888ff" italic="true"/>
+    <style name="JsImportVar" foreground="#8888ff" italic="true"/>
+    <style name="JsGlobalVar" foreground="#8888ff" italic="true"/>
+</style-scheme>
